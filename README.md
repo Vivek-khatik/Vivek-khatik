@@ -16,6 +16,8 @@ I am a passionate and experienced **Full Stack Developer** with a solid foundati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" />
 </p>
 
 ### 🔹 Languages & Frameworks
@@ -35,10 +37,24 @@ I am a passionate and experienced **Full Stack Developer** with a solid foundati
   - **Timer Triggers**: Automating scheduled tasks and background processes.
   - **Queue Triggers (Service Bus)**: Asynchronous message handling for decoupled services and microservice communication.
 
+### 🔹 Databases
+- **MongoDB**: For scalable, flexible NoSQL document storage.
+- **SQL Server / MySQL**: For relational data and structured schema-based applications.
+
 ## 🔧 Why This Stack?
 
-I have chosen this stack because it allows for high productivity, maintainability, and scalability. The combination of .NET and Azure serverless technologies supports rapid development cycles while ensuring reliability and performance. React JS and Bootstrap enable responsive, dynamic interfaces that enhance user experience.
+I have chosen this stack because it allows for high productivity, maintainability, and scalability. The combination of .NET and Azure serverless technologies supports rapid development cycles while ensuring reliability and performance. React JS and Bootstrap enable responsive, dynamic interfaces that enhance user experience. MongoDB and SQL give flexibility to adapt both to modern and traditional data storage needs.
 
 ## 💼 Let's Connect
 
-If you're looking for someone with a proven ability to deliver full-stack solutions, integrate cloud functions, and build modern UIs, feel free to reach out!
+<p align="left">
+  <a href="https://github.com/Vivek-khatik" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-khatik-374335225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vivekkhinchi311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
